@@ -1,6 +1,6 @@
 - Hi!, you can call me shiro 👋
-- I'm currently taking diploma in Computer Science.
-- Currently learning web development such as HTML, CSS and Javascript.
+- I'm currently a Diploma student in Computer Science.
+- Learning HTML, CSS and Javascript.
 - よろしくお願いします。
 
 <!---
