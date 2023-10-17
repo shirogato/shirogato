@@ -1,6 +1,5 @@
 - Hi!, you can call me shiro 👋
-- I'm currently a Diploma student in Computer Science.
-- Learning HTML, CSS and Javascript.
+- I'm a Software Engineer
 - よろしくお願いします。
 
 <!---
