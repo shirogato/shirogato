@@ -1,4 +1,4 @@
-- Hi!, you can call me shiro 👋
+- Hi!
 - I'm a Software Engineer
 - よろしくお願いします。
 
